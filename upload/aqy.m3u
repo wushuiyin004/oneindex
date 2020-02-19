@@ -39,7 +39,7 @@ http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_kangzhanjuchang_1080
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="神探狄仁杰" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",神探狄仁杰 
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
-EXTINF:-1 tvg-id="1" tvg-name="纪晓岚" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",纪晓岚
+#EXTINF:-1 tvg-id="1" tvg-name="纪晓岚" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",纪晓岚
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c16_lb_jixiaolan_1080p_t10/c16_lb_jixiaolan_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="人民的名义" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",人民的名义 
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
@@ -49,7 +49,7 @@ http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_xiaoshuogaibian_1080
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="老年剧场" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",老年剧场 
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
-EXTINF:-1 tvg-id="1" tvg-name="怀旧剧场" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",怀旧剧场
+#EXTINF:-1 tvg-id="1" tvg-name="怀旧剧场" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",怀旧剧场
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="五星影院" tvg-logo="https://ae01.alicdn.com/kf/H237518d3a70a459a867afaab710da9758.png" group-title="爱奇艺轮播",五星影院 
 http://153.99.174.196/cdn-out.iqy.sc96655.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
