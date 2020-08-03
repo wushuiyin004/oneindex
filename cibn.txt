@@ -1,0 +1,12 @@
+<?php
+//id由1开始自己扫
+$id=(isset($_GET['id'])?$_GET['id']:1)-1;
+$url='http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000';
+$ch=curl_init();
+curl_setopt($ch,CURLOPT_URL,$url);
+curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
+$data=curl_exec($ch);
+curl_close($ch);
+$json=json_decode($data)->data->channelList[$id]->m3u8;
+header('location:'.$json);
+?>
