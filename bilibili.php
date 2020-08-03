@@ -1,0 +1,12 @@
+<?php
+$id=$_GET['id'];
+$url='https://api.live.bilibili.com/xlive/web-room/v1/playUrl/playUrl?platform=h5&cid='.$id;
+$ch=curl_init();
+curl_setopt($ch,CURLOPT_URL,$url);                  
+curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
+curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
+$data=curl_exec($ch);
+curl_close($ch);
+$json=json_decode($data)->data->durl[0]->url;
+header('location:'.$json);
+?>
