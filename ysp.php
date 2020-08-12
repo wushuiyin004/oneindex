@@ -1,13 +1,5 @@
+<?php
 
-<html>
-
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title></title>
-<style>body{margin:0px;padding:0px;background:#000;}</style>
-</head>
-
-<body>
 <SCRIPT>
 var vid=window.location.href.split('id=')[1];
 var url='http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/';
@@ -62,6 +54,4 @@ if(vid=="hinws"){lg=url+'2000291503.m3u8';
 
 location.href=lg;
 
-</SCRIPT>
-</body>
-</html>
+?>
